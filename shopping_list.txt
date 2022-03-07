@@ -1,5 +1,5 @@
-domat
-leb
-puter
-meso
-sok
+domat x 1
+leb x 2
+puter x 3
+meso x 2
+sok x 2
